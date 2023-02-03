@@ -1,0 +1,12 @@
+CSS media queries are a powerful tool that allows you to change the way your website or web application looks and behaves depending on the screen size of the device that is accessing it. This means that your website or application can be optimized for desktops, laptops, tablets, and smartphones, all with the same codebase.
+
+Media queries use CSS to apply different styles to different devices. You can use media queries to change the layout, hide or show elements, and even change the font size. To create a media query, you use the @media rule in your stylesheet. You then specify the device width, height, or other parameters that determine which styles will be applied.
+
+For example, you can use a media query to create a responsive layout for mobile devices by using a max-width of 700px. In this case, if the device width is 700px or less, the styles in the media query will be applied.
+
+Another common use case is to hide or show elements based on screen size. For example, you can use a media query to hide a side menu on mobile devices. In this case, you can use the display property to set the value to “none”.
+
+It’s important to note that media queries should be used in combination with other responsive design techniques such as using relative units, flexible grids, and responsive images. This will ensure that your website or application looks great on all devices.
+
+CONCLUSION:
+In conclusion, CSS media queries are a vital tool for creating responsive and adaptive designs. They allow you to optimize your website or application for different devices, providing a better user experience for all of your users. If you’re not already using media queries in your projects, I highly recommend you start.
